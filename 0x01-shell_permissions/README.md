@@ -12,3 +12,4 @@ setting file mode to -rwxr-x-wx
  adds execute permission to all subdirectories of the current directory for the owner
 Create a script that creates a directory called my_dir with permissions 751
 Write a script that changes the group owner
+changing the owner to vincent and the group owner to staff at once
