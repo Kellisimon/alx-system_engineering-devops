@@ -8,3 +8,4 @@ giving multiple permissions to u , g & 0
 Giving execute permission to everybody
 Setting all permissions to only o
 setting file mode to -rwxr-x-wx
+--reference=olleh hello copy the mode of olleh into hello
