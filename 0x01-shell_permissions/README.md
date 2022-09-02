@@ -13,3 +13,4 @@ setting file mode to -rwxr-x-wx
 Create a script that creates a directory called my_dir with permissions 751
 Write a script that changes the group owner
 changing the owner to vincent and the group owner to staff at once
+changes the owner and the group owner of _hello
