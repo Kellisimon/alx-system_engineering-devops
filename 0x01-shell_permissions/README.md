@@ -9,3 +9,4 @@ Giving execute permission to everybody
 Setting all permissions to only o
 setting file mode to -rwxr-x-wx
 --reference=olleh hello copy the mode of olleh into hello
+ adds execute permission to all subdirectories of the current directory for the owner
