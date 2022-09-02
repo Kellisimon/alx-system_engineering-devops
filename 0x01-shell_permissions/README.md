@@ -7,3 +7,4 @@ chmod u+x filename adds execute permission to the owner of the file
 giving multiple permissions to u , g & 0
 Giving execute permission to everybody
 Setting all permissions to only o
+setting file mode to -rwxr-x-wx
