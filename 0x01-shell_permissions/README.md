@@ -10,3 +10,4 @@ Setting all permissions to only o
 setting file mode to -rwxr-x-wx
 --reference=olleh hello copy the mode of olleh into hello
  adds execute permission to all subdirectories of the current directory for the owner
+Create a script that creates a directory called my_dir with permissions 751
