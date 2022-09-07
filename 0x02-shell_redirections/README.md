@@ -7,3 +7,4 @@ show first 10 lines
 shows 3rd line of file
 create a file
 write the ls -la result into is_cwd_content file
+duplicate the last line of the file iacta
