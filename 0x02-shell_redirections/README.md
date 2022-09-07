@@ -9,3 +9,4 @@ create a file
 write the ls -la result into is_cwd_content file
 duplicate the last line of the file iacta
 deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
+counts the number of directories and sub-directories in the current directory
